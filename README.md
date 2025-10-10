@@ -1,9 +1,3 @@
-Here's a complete README for your project:
-markdown# 🎯 STM32 MPU6050 Tilt Sensor with Real-Time 3D Visualization
-
-Real-time 3D tilt visualization using STM32 microcontroller and MPU6050 6-axis IMU sensor. Watch your sensor movements come to life in a browser-based 3D interface!
-
-![Demo](docs/demo.gif)
 
 ## 🌟 Features
 
