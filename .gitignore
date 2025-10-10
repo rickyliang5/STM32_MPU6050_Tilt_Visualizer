@@ -1,0 +1,48 @@
+###################
+# STM32CubeIDE
+###################
+
+# Build results
+Debug/
+Release/
+Build/
+
+# IDE
+.settings/
+.project
+.cproject
+.mxproject
+
+# Launch configs
+*.launch
+
+# Compiled files
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.d
+
+# Toolchain
+*.mk
+*.ld
+
+# Keep these
+!STM32*.ld
+
+###################
+# General
+###################
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup
+*~
+*.bak
+*.old
+*.tmp
