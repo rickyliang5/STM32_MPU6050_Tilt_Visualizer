@@ -22,7 +22,7 @@ MPU6050          STM32
 ┌────────┐      ┌─────────┐
 │  VCC   │─────→│  3.3V   │
 │  GND   │─────→│  GND    │
-│  SCL   │─────→│  PB8    │  I2C1 SCL
+│  SCL   │─────→│  PB8    │  I2C1 SCL)
 │  SDA   │─────→│  PB9    │  (I2C1 SDA)
 └────────┘      └─────────┘
 Note: Your STM32 board may have different I2C pins.
