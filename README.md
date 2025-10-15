@@ -1,7 +1,7 @@
 
 ## 🌟 Features
 
-- **Real-time tilt sensing** using MPU6050 accelerometer and gyroscopee
+- **Real-time tilt sensing** using MPU6050 accelerometer and gyroscopeee
 - **I2C communication** between STM32 and sensor
 - **Roll and pitch angle calculation** from accelerometer data
 - **UART serial output** at 115200 baud
