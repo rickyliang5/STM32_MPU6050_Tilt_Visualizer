@@ -20,7 +20,7 @@
 ## 📐 Wiring Diagram
 MPU6050          STM32
 ┌────────┐      ┌─────────┐
-│  VCC   │─────→│  3.3V   │
+│  VCC   │─────→│  3.3V   │s
 │  GND   │─────→│  GND    │
 │  SCL   │─────→│  PB8    │  I2C1 SCL)
 │  SDA   │─────→│  PB9    │  (I2C1 SDA)
