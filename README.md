@@ -26,7 +26,7 @@ MPU6050          STM32
 │  SDA   │─────→│  PB9    │  (I2C1 SDA)
 └────────┘      └─────────┘
 Note: Your STM32 board may have different I2C pins.
-Check your board's pinout and adjust in STM32CubeMX if needed..
+Check your board's pinout and adjust in STM32CubeMX if needed...
 
 ### Important Notes:
 - ⚠️ **Use 3.3V, NOT 5V!** The MPU6050 is a 3.3V device
