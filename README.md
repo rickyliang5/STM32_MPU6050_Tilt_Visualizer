@@ -65,7 +65,7 @@ Open Chrome/Edge browser and go to:
 Click "Connect Serial Port"
 Select your STM32's COM port
 Tilt the sensor and watch the 3D visualization!
-
+/
 📊 Data Format
 The STM32 sends data via UART in CSV format:
 roll,pitch
