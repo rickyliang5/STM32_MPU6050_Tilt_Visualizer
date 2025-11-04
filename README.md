@@ -40,7 +40,7 @@ Check your board's pinout and adjust in STM32CubeMX if needed...
 1. Connect MPU6050 to STM32 as shown in wiring diagram
 2. Connect STM32 to computer via USB
 
-### 2. Software Setup
+### 2. Software Setupp
 
 #### STM32 Firmware:
 
